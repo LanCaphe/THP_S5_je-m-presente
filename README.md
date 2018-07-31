@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Création d'une application qui affiche plusieurs vues. Puis mise en ligne avec heroku.
 
-Things you may want to cover:
+Pensez au bundle install.
 
-* Ruby version
+Lien : https://git.heroku.com/presentationlantest.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
